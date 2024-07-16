@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MudBlzTheme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef0e24f09676278a4b7043c6bd27cad05277a102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+058c798636f88efafd8bb971c8c70f63bf6db80f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudBlzTheme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudBlzTheme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
